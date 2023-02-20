@@ -1,0 +1,40 @@
+.navbar-brand{
+    font-family: Arial Narrow Bold;
+    font-size:32px;
+    
+}
+
+.jumbotron {
+    background-image: url(img/jln.jpg);
+    background-size: cover;
+    height: 640px;
+    margin-top: -75px;
+}
+
+.jumbotron .display-4 {
+    color: rgb(32, 26, 34);
+    text-align: center;
+    margin-top: 70px;
+}
+
+.jumbotron .lead {
+    color: rgb(1, 0, 1);
+}
+
+.navbar-brand,.nav-link{
+   color: black !important;
+
+}
+
+.nav-link {
+    font-family: 'Gill Sans', Gill Sans MT, 'Calibri', 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid #0B63DC;
+    padding-bottom: 5px;
+    margin-bottom: -8px;
+}
+
